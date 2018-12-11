@@ -1,0 +1,68 @@
+.button {
+	background: #2d2525;
+	color:#d8caca;
+	padding: 10px 20px;
+}
+#main-menu li {
+	padding: 10px;
+}
+a {
+	text-decoration:none;
+}
+#main-menu {
+	margin: 0;
+	padding: 0;
+	text-align:center;
+	list-style: none;
+	display: grid;
+	grid-gap: 20px;
+grid-template-columns: repeat(6,1fr);
+}
+
+.BENEFITS  {
+	margin-bottom: 20px;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 3fr 1fr;
+	color: blue;
+}
+
+.BENEFITS{
+	background:blue;
+	padding: 40px;
+	display: grid;
+	grid-gap: 50px;
+	grid-template-columns: 1fr 1fr;
+	box-shadow: 0 0 5px #2d2525;
+}
+
+.BENEFITS p {
+	margin: 10px 0 60px 0;
+	color:white;
+}
+.BENEFITS p {
+	margin-top: 40px;
+}
+ 
+.BENEFITS  {
+	text-align: center;
+	background: #e1dfda;
+	box-shadow: 0 0 10px #d8caca;
+}
+.BENEFITS  h4 {
+	margin-top:0;
+}
+
+.BENEFITS  {
+	text-align: justify;
+	padding: 40px;
+	margin-bottom: 40px;
+	
+}
+.BENEFITS {
+	padding:120px;
+	background:black;
+	margin:20px;
+	color:red;
+	
+}
